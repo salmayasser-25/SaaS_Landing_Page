@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Unified Business Management Platform",
+  "description": "Unify financial ledgers, team capacity, vendor approvals, and operational analytics in one precision platform built for modern finance and operations teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
